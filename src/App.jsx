@@ -5,7 +5,6 @@ import CoreConcepts from './components/CoreConcepts.jsx';
 import Examples from './components/examples.jsx';
 
 function App() {
-
   return (
     <>
       <Header />
